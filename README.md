@@ -4,7 +4,9 @@
 
 ## 2. Solution Overview
 
-### 2.1 Grafana Dashboard Mockup
+### 2.1 Project Architecture 
+
+### 2.2 Grafana Dashboard Mockup
 ![Grafana](Docs/Screenshots/20261123_124005.jpg)
 ![Grafana](Docs/Screenshots/20261123_124114.jpg)
 ## 3. List of Components
