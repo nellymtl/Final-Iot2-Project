@@ -5,6 +5,7 @@
 ## 2. Solution Overview
 
 ### 2.1 Project Architecture 
+![Project Architecture](Docs/Screenshots/projet.jpg)
 
 ### 2.2 Grafana Dashboard Mockup
 ![Grafana](Docs/Screenshots/20261123_124005.jpg)
